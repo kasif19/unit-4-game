@@ -1,0 +1,65 @@
+body {
+    background-color: darkolivegreen;
+}
+
+h1 {
+    text-align: center;
+    color:whitesmoke;
+    padding-top: 30px;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+#instructions {
+    display: block;
+    background-color: aquamarine;
+    border: 1px solid red;
+    padding-left: 40px;
+    width: 600px;
+    margin-left: 630px;
+}
+
+
+
+#blue {
+    border-radius: 50%;
+    width: 150px;
+
+}
+
+#red {
+    border-radius: 50%;
+    width: 150px;
+
+}
+
+#green {
+    border-radius: 50%;
+    width: 90px;
+
+}
+
+#purple {
+    border-radius: 50%;
+    width: 90px;
+
+}
+
+#target {
+    color: white;
+}
+
+#total {
+    color: white;
+}
+
+#win {
+    color: white;
+}
+
+#loss {
+    color: white;
+}
